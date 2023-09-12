@@ -40,7 +40,7 @@ function NavBar() {
               <Button>
                 <div className="just-center">
                   <img src={user} alt="" style={{ width: "20px" }} /> &nbsp;
-                  Hello, Raunak
+                  Hello, Ayush
                 </div>
               </Button>
             </div>
