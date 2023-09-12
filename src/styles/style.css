@@ -23,12 +23,12 @@
 }
 .just-start {
   display: flex;
-  justify-content: start;
+  justify-content: flex-start;
   align-items: center;
 }
 .just-end {
   display: flex;
-  justify-content: end;
+  justify-content: flex-end;
   align-items: center;
 }
 .layout-div {
@@ -51,7 +51,7 @@
 
 .sidebarOptions {
   display: flex;
-  justify-content: start;
+  justify-content: flex-start;
   align-items: center;
   width: 100%;
   border-radius: 0rem 2rem 2rem 0rem;
